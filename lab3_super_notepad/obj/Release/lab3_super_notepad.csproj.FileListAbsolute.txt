@@ -1,0 +1,11 @@
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\ResolveAssemblyReference.cache
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\lab3_super_notepad.file_form.resources
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\lab3_super_notepad.Form1.resources
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\lab3_super_notepad.csproj.GenerateResource.Cache
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\lab3_super_notepad.find_form.resources
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\lab3_super_notepad.info_form.resources
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\bin\Release\Super_Notepad.exe
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\bin\Release\Super_Notepad.pdb
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\Super_Notepad.Properties.Resources.resources
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\Super_Notepad.exe
+D:\University\C#\labs\lab3\lab3_super_notepad\lab3_super_notepad\obj\Release\Super_Notepad.pdb
